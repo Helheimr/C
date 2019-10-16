@@ -13,8 +13,8 @@ semaphore mutexA = 1;
 semaphore mutexB = 1;
 semaphore bridge = 1;
 
-semaphore countA = 1;
-semaphore countB = 1;
+semaphore countA = 0;
+semaphore countB = 0;
 
 
 // A方向行人过桥
